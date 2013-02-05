@@ -11,3 +11,6 @@ Add ss-handlebars-formatter to your application's package.json file and then add
 ss.client.formatters.add require 'ss-handlebars-formatter'  - for coffee-script.
 ss.client.formatters.add(require('ss-handlebars-formatter')); - for javascript.
 ```
+
+### Git
+https://github.com/AVVSDevelopment/ss-handlebars-formatter
