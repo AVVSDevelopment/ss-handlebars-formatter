@@ -1,0 +1,16 @@
+{
+  "name": "ss-handlebars-formatter",
+  "author": {
+    "name": "Vitaly Aminev, Boris Povod",
+    "email": "v@avvs.co"
+  },
+  "description": "Handlebars wrapper for SocketStream 0.3",
+  "version": "0.0.1",
+  "main": "./wrapper.js",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "dependencies": {
+    "handlebars": "1.x"
+  }
+ }  
